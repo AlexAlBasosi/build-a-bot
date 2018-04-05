@@ -29,7 +29,7 @@ A response is what the Conversation service returns to the user’s utterances b
 A dialog defines the conversational flow, which is simply a logical flow that determines responses based on a met condition. The dialog flows in a top-to-bottom, left-to-right fashion.
 
 ## Dialog Node
-A diaglog node is a single interaction in a conversation that is triggered when a condition is met and provides a response back to the user.
+A dialog node is a single interaction in a conversation that is triggered when a condition is met and provides a response back to the user.
 
 ## Slots
 Slots are considered the easiest way to gather information from users, allowing what usually takes serveral dialog nodes to be consolidated into a single node.
