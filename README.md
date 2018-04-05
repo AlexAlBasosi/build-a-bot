@@ -1,4 +1,4 @@
-# Simple-Movie-Booking-Chat-Bot
+# Simple Movie Booking ChatBot
 This is repository is aimed at helping anyone get started with understanding how to use Watson Assistant service to create a simple chat bot that will book seats to a movie for you. This will be done using a feature called Slots.
 
 # Watson Assistant
