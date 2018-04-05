@@ -36,7 +36,7 @@ Slots are considered the easiest way to gather information from users, allowing 
 
 # Process 
 ## Sign up on IBM Cloud
-An IBM Cloud account - A lite account, which is a free of charge account that doesn’t expire, can be created through going to [IBM Cloud](http://ibm.biz/bringchildtowork).
+An IBM Cloud account - A lite account, which is a free of charge account that doesn’t expire, can be created through going to [IBM Cloud](http://ibm.biz/childrenday).
 
 ## Create a Watson Assistant service
 1.  Select **Catalog** found at the top right of the page.
@@ -45,7 +45,7 @@ An IBM Cloud account - A lite account, which is a free of charge account that do
 
 ![Watson Assistant service](images/image1.png)
 
-4.  Enter the **Service name** or keep the default value and make sure to select the **US South** as the **region/location** and your desired **organization**, and **space**.
+4.  Enter the **Service name** or keep the default value and make sure to select your desired **region/location**, **organization**, and **space**.
 5.  Select **Lite** for the **Plan**, which you can find under **Pricing Plans** and is already selected. Please note you are only allowed one instance of a Lite plan per service.
 6.  Click on **Create**.
 
@@ -167,3 +167,15 @@ Alternatively, instead of going step-by-step, we can import the entire workspace
 
 ## Integrate It into an Application and Deploy it to IBM Cloud
 This can be done by following the steps found in this [Github repository](https://github.com/watson-developer-cloud/assistant-simple). The difference is that we will be using the Watson Assistant service and workspace we just created.
+
+## Other resources to check out
+Bot Asset Exchange (contains workspaces that can be explored) <br>
+https://developer.ibm.com/code/exchanges/bots/
+
+Watson Assistant courses (to help learn about Watson Assistant features) <br>
+https://developer.ibm.com/courses/all/chatbots-watson-lets-talk-national-parks/ <br>
+https://developer.ibm.com/courses/all/chatbots-for-good-empathetic-chatbots/ <br>
+https://cognitiveclass.ai/courses/how-to-build-a-chatbot/
+
+TJ Bot (contains fun projects to build using some hardware components) <br>
+https://ibmtjbot.github.io/
